@@ -1,0 +1,12 @@
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\bin\Debug\net7.0\ProgrammersBlog.Core.deps.json
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\bin\Debug\net7.0\ProgrammersBlog.Core.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\bin\Debug\net7.0\ProgrammersBlog.Core.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.AssemblyInfo.cs
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\refint\ProgrammersBlog.Core.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ProgrammersBlog.Core.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Core\obj\Debug\net7.0\ref\ProgrammersBlog.Core.dll

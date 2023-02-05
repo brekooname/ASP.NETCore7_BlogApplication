@@ -1,0 +1,17 @@
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Services.deps.json
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Services.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Services.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Core.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Data.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Data.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net7.0\ProgrammersBlog.Core.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.AssemblyInfo.cs
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.csproj.CopyComplete
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\refint\ProgrammersBlog.Services.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ProgrammersBlog.Services.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net7.0\ref\ProgrammersBlog.Services.dll

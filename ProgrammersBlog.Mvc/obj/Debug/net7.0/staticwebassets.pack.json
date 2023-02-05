@@ -1,0 +1,925 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HUAWEI\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ProgrammersBlog.Mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProgrammersBlog.Mvc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\css\\blog-home.css",
+      "PackagePath": "staticwebassets\\BlogHome\\css\\blog-home.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\BlogHome\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\BlogHome\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\.browserslistrc",
+      "PackagePath": "staticwebassets\\Tema\\.browserslistrc"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\.gitignore",
+      "PackagePath": "staticwebassets\\Tema\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\.travis.yml",
+      "PackagePath": "staticwebassets\\Tema\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\LICENSE",
+      "PackagePath": "staticwebassets\\Tema"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\README.md",
+      "PackagePath": "staticwebassets\\Tema\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\401.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\404.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\500.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Tema\\dist\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\charts.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Tema\\dist\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\index.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Tema\\dist\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\layout-static.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\login.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\password.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\register.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\dist\\tables.html",
+      "PackagePath": "staticwebassets\\Tema\\dist\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\index.html",
+      "PackagePath": "staticwebassets\\Tema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\package-lock.json",
+      "PackagePath": "staticwebassets\\Tema\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\package.json",
+      "PackagePath": "staticwebassets\\Tema\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\build-assets.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\build-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\build-pug.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\build-pug.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\build-scripts.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\build-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\build-scss.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\build-scss.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\clean.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\clean.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\render-assets.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\render-assets.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\render-pug.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\render-pug.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\render-scripts.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\render-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\render-scss.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\render-scss.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\sb-watch.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\sb-watch.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\start-debug.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\start-debug.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\scripts\\start.js",
+      "PackagePath": "staticwebassets\\Tema\\scripts\\start.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Tema\\src\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Tema\\src\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\authentication.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\authentication.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\dashboard.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\dashboard.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\error.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\error.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\footer.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\footer.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\head\\css.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\head\\css.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\head\\icons.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\head\\icons.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\head\\meta.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\head\\meta.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\head\\title.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\head\\title.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\navigation\\sidenav.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\navigation\\sidenav.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\navigation\\topnav.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\navigation\\topnav.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\layouts\\includes\\scripts.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\layouts\\includes\\scripts.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\401.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\401.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\404.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\404.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\500.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\500.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\charts.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\charts.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\includes\\datatable.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\includes\\datatable.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\includes\\page-header.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\includes\\page-header.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\index.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\index.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\layout-sidenav-light.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\layout-sidenav-light.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\layout-static.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\layout-static.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\login.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\login.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\password.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\password.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\register.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\register.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\pug\\pages\\tables.pug",
+      "PackagePath": "staticwebassets\\Tema\\src\\pug\\pages\\tables.pug"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_global.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\layout\\_authentication.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\layout\\_authentication.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\layout\\_dashboard-default.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\layout\\_dashboard-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\layout\\_dashboard-fixed.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\layout\\_dashboard-fixed.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\layout\\_error.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\layout\\_error.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\navigation\\_nav.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\navigation\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\navigation\\_topnav.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\navigation\\_topnav.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\navigation\\sidenav\\_sidenav-dark.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\navigation\\sidenav\\_sidenav-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\navigation\\sidenav\\_sidenav-light.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\navigation\\sidenav\\_sidenav-light.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\navigation\\sidenav\\_sidenav.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\navigation\\sidenav\\_sidenav.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\variables\\_navigation.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\variables\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\Tema\\src\\scss\\variables\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Tema\\src\\scss\\variables\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\css\\errorBackground.css",
+      "PackagePath": "staticwebassets\\css\\errorBackground.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_108_24_43_22_25_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_108_24_43_22_25_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_20_35_43_22_25_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_20_35_43_22_25_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_540_28_8_22_30_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_540_28_8_22_30_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_671_55_26_16_25_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_671_55_26_16_25_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_806_40_26_16_25_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_806_40_26_16_25_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_919_8_27_16_25_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_919_8_27_16_25_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus1_933_35_29_8_9_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus1_933_35_29_8_9_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus2_383_21_55_15_8_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus2_383_21_55_15_8_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus2_520_37_30_16_25_1_2023_.jpeg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus2_520_37_30_16_25_1_2023_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus2_694_13_37_16_25_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus2_694_13_37_16_25_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Akkus444_858_46_53_12_24_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Akkus444_858_46_53_12_24_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\Blazor, React, Angular, Vue Js, Web Geliştirme Blazor ile React Arasındaki Önemli Farklılıklar_320_16_32_9_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\Blazor, React, Angular, Vue Js, Web Geliştirme Blazor ile React Arasındaki Önemli Farklılıklar_320_16_32_9_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\YAPAY ZEKA _577_42_41_9_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\YAPAY ZEKA _577_42_41_9_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\adminuser_144_25_7_22_30_1_2023_.jpeg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\adminuser_144_25_7_22_30_1_2023_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\adminuser_589_15_8_22_30_1_2023_.jpeg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\adminuser_589_15_8_22_30_1_2023_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\adminuser_85_24_59_15_8_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\adminuser_85_24_59_15_8_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\adminuser_967_5_8_22_30_1_2023_.jpeg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\adminuser_967_5_8_22_30_1_2023_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\arda_612_21_33_16_26_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\UserImages\\arda_612_21_33_16_26_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\editoruser2_803_46_7_22_30_1_2023_.jpeg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\editoruser2_803_46_7_22_30_1_2023_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\editoruser_698_54_58_15_8_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\editoruser_698_54_58_15_8_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\omerakkus2_244_17_57_7_26_1_2023_.jpeg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\omerakkus2_244_17_57_7_26_1_2023_.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\UserImages\\omerakkus2_259_31_41_20_9_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\UserImages\\omerakkus2_259_31_41_20_9_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\BAZI GELİŞMİŞ ÜLKELERDE TEKNOLOJİ EĞİTİMİ VE TÜRKİYE İÇİN ÖNERİLER_20_35_18_11_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\BAZI GELİŞMİŞ ÜLKELERDE TEKNOLOJİ EĞİTİMİ VE TÜRKİYE İÇİN ÖNERİLER_20_35_18_11_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\BAZI GELİŞMİŞ ÜLKELERDE TEKNOLOJİ EĞİTİMİ VE TÜRKİYE İÇİN ÖNERİLER_792_25_32_13_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\BAZI GELİŞMİŞ ÜLKELERDE TEKNOLOJİ EĞİTİMİ VE TÜRKİYE İÇİN ÖNERİLER_792_25_32_13_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\BİLGİSAYAR GÜVENLİĞİ_205_41_32_13_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\BİLGİSAYAR GÜVENLİĞİ_205_41_32_13_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\Makale14_275_19_50_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\Makale14_275_19_50_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\Makale14_320_10_50_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\Makale14_320_10_50_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\Makale14_821_15_50_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\Makale14_821_15_50_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\NASA’nın James Webb Uzay Teleskobu_255_17_35_12_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\NASA’nın James Webb Uzay Teleskobu_255_17_35_12_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\NASA’nın James Webb Uzay Teleskobu_418_19_48_13_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\NASA’nın James Webb Uzay Teleskobu_418_19_48_13_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\dasdsasa_389_46_41_17_28_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\postImages\\dasdsasa_389_46_41_17_28_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\defaultThumbnail.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\defaultThumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\dfasfas_235_21_23_21_24_1_2023_.png",
+      "PackagePath": "staticwebassets\\img\\postImages\\dfasfas_235_21_23_21_24_1_2023_.png"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\dgfgfd_949_26_30_21_24_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\dgfgfd_949_26_30_21_24_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale12_938_36_44_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale12_938_36_44_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale17_381_2_52_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale17_381_2_52_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale18_37_4_52_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale18_37_4_52_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale19_940_7_52_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale19_940_7_52_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale20_4_10_52_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale20_4_10_52_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale21_181_12_52_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale21_181_12_52_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale22_845_23_53_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale22_845_23_53_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale23_820_25_53_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale23_820_25_53_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale24_453_27_53_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale24_453_27_53_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\makale25_937_30_53_18_28_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\makale25_937_30_53_18_28_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\img\\postImages\\sdsdxc_607_57_1_9_26_1_2023_.jpg",
+      "PackagePath": "staticwebassets\\img\\postImages\\sdsdxc_607_57_1_9_26_1_2023_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\ArticleRightSideBarWidgetSettings.js",
+      "PackagePath": "staticwebassets\\js\\ArticleRightSideBarWidgetSettings.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\commentIndex.js",
+      "PackagePath": "staticwebassets\\js\\commentIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\deletedArticles.js",
+      "PackagePath": "staticwebassets\\js\\deletedArticles.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\deletedCategories.js",
+      "PackagePath": "staticwebassets\\js\\deletedCategories.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\deletedComments.js",
+      "PackagePath": "staticwebassets\\js\\deletedComments.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\roleIndex.js",
+      "PackagePath": "staticwebassets\\js\\roleIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HUAWEI\\OneDrive\\Masaüstü\\PROJELERİM\\ProgrammersBlog\\ProgrammersBlog.Mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProgrammersBlog.Mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProgrammersBlog.Mvc.props",
+      "PackagePath": "build\\ProgrammersBlog.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProgrammersBlog.Mvc.props",
+      "PackagePath": "buildMultiTargeting\\ProgrammersBlog.Mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProgrammersBlog.Mvc.props",
+      "PackagePath": "buildTransitive\\ProgrammersBlog.Mvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

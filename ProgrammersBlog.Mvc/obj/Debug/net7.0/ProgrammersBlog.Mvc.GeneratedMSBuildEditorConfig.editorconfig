@@ -1,0 +1,233 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProgrammersBlog.Mvc
+build_property.RootNamespace = ProgrammersBlog.Mvc
+build_property.ProjectDir = C:\Users\HUAWEI\OneDrive\Masaüstü\ProgrammersBlog\ProgrammersBlog.Mvc\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\HUAWEI\OneDrive\Masaüstü\ProgrammersBlog\ProgrammersBlog.Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Article/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWNsZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Article/DeletedArticles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWNsZVxEZWxldGVkQXJ0aWNsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Article/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXJ0aWNsZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Auth/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Category/CategoryAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlBZGRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Category/CategoryUpdatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlVcGRhdGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Category/DeletedCategories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlZENhdGVnb3JpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Comment/_CommentDetailPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxfQ29tbWVudERldGFpbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Comment/_CommentUpdatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudFxfQ29tbWVudFVwZGF0ZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Options/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3B0aW9uc1xBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Options/ArticleRightSideBarWidgetSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3B0aW9uc1xBcnRpY2xlUmlnaHRTaWRlQmFyV2lkZ2V0U2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Options/EmailSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3B0aW9uc1xFbWFpbFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Options/GeneralSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3B0aW9uc1xHZW5lcmFsU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Role/_RoleAssignPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxfUm9sZUFzc2lnblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/Components/AdminMenu/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5NZW51XGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/Components/UserMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlck1lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/LayoutCssPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dENzc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/LayoutJsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXExheW91dEpzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_UserLoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Vc2VyTG9naW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/User/ChangeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxDaGFuZ2VEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/User/PasswordChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxQYXNzd29yZENoYW5nZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/User/UserAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxVc2VyQWRkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/User/UserUpdatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxVc2VyVXBkYXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/User/_GetDetailPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxfR2V0RGV0YWlsUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Article/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Article/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Article/_ArticleDetailRightSideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxfQXJ0aWNsZURldGFpbFJpZ2h0U2lkZUJhclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Comment/_CommentAddPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxfQ29tbWVudEFkZFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/Components/RightSideBar/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmlnaHRTaWRlQmFyXGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_AboutLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BYm91dExheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_ArticleLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BcnRpY2xlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_MainMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTWVudVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i1b7dcpyo1
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_ContactLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-rwh4go12za
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_ErrorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FcnJvckxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-oas3i925sy
+
+[C:/Users/HUAWEI/OneDrive/Masaüstü/ProgrammersBlog/ProgrammersBlog.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a4ci5g2kx4

@@ -1,0 +1,17 @@
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net7.0\ProgrammersBlog.Data.deps.json
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net7.0\ProgrammersBlog.Data.runtimeconfig.json
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net7.0\ProgrammersBlog.Data.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net7.0\ProgrammersBlog.Data.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net7.0\ProgrammersBlog.Core.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\bin\Debug\net7.0\ProgrammersBlog.Core.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.AssemblyInfo.cs
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.csproj.CopyComplete
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\refint\ProgrammersBlog.Data.dll
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.pdb
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ProgrammersBlog.Data.genruntimeconfig.cache
+C:\Users\HUAWEI\OneDrive\Masaüstü\PROJELERİM\ProgrammersBlog\ProgrammersBlog.Data\obj\Debug\net7.0\ref\ProgrammersBlog.Data.dll
